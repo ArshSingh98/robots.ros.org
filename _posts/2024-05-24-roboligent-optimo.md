@@ -24,7 +24,7 @@ tags:
 - 'self-driving'
 twitter_text: Checkout the Roboligent Optimo
 website: https://roboligent.com/
-wiki_homepage: https://robots.ros.org/roboligent_optimo/
+wiki_homepage: https://roboligent.bitbucket.io/
 ---
 
 Impedance-controlled movements
